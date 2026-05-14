@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="MIT License"/>
 </p>
 
-<h1 align="center">🐍 The 90-Day Python Developer Roadmap</h1>
+<h1 align="center">🐍 The 90-Day Python Roadmap</h1>
 
 <p align="center">
   <strong>From zero to confident Python developer — one day at a time.</strong><br/>
@@ -55,7 +55,7 @@ cd 90-Day-Python-Roadmap
 python --version
 
 # 3. Run any day's file
-python Part1_Essentials/day_01_indentation_and_comments.py
+python Part1_Essentials/day_01_indentation_and_comments.ipynb
 
 # 4. For Part 3 (data topics), install optional dependencies
 pip install pandas matplotlib openpyxl requests
@@ -119,7 +119,7 @@ What a lot of Python jobs actually involve: moving data around, cleaning it, sto
 
 | Day | Topic | File |
 |:---:|-------|------|
-| 1 | Indentation, block structuring, and comments | `day_01_indentation_and_comments.py` |
+| 1 | Indentation, block structuring, and comments | `day_01_indentation_and_comments.ipynb` |
 | 2 | Variables, assignments, and optional type hints | `day_02_variables_and_type_hints.py` |
 | 3 | Expressions, basic strings, and the `None` value | `day_03_expressions_strings_none.py` |
 | 4 | Numbers, built-in numeric functions, complex numbers | `day_04_numbers_and_functions.py` |
